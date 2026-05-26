@@ -54,7 +54,7 @@ plt.grid(True)
 
 # Guardamos el gráfico como imagen
 # Este archivo después lo ponemos en la carpeta /resultados del repo
-plt.savefig('grafico_ventas.png')
+plt.savefig('resultados/grafico_ventas.png')
 plt.show()
 print("Gráfico guardado correctamente")
 
